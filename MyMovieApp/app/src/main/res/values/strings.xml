@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My MovieApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Now it is possible, but only for phones with version higher or equal 2.2 by using the android.text.style.LeadingMarginSpan.LeadingMarginSpan2 interface which is available in API 8. Here is the article, not in English though, but you can download the source code of the example directly from here.</string>
+    <string name="like">Like it!</string>s>
+
+    <string name="password_changing_text">Changing your password : </string>s>
+    <string name="password_first">Enter your password</string>s>
+    <string name="password_second">Enter it again</string>s>
+    <string name="passw_btn_text">Change it!</string>s>
+    <string name="movie_title"></string>s>
+    <string name="default_description"></string>s>
+
+</resources>
